@@ -8,6 +8,6 @@ Maintainer: Sophia Dong < >
 +           Kush Tekriwal < > 
 Description: This package lets you know whether you are 
     legal to drink in different countries around the world. 
-License: What license is it under?
+License: GPL
 Encoding: UTF-8
 LazyData: true
