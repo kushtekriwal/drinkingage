@@ -3,9 +3,9 @@ Type: Package
 Title: Legal drinking age COUNTRY FINDER 
 Version: 0.1.0
 Author: Sophia Dong, Dana Choi, Kush Tekriwal 
-Maintainer: Sophia Dong < > 
-+           Dana Choi <eunseochoi2019@u.northwestern.edu>
-+           Kush Tekriwal < > 
+Maintainer: Sophia Dong 
+Dana Choi <eunseochoi2019@u.northwestern.edu>
+Kush Tekriwal  
 Description: This package lets you know whether you are 
     legal to drink in different countries around the world. 
 License: GPL-3
