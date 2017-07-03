@@ -11,8 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Installation 
 You can install drinkingage from github with:
 
-    ```{r install, echo=TRUE}
-# install.packages("devtools")
+```{r install, echo=TRUE}
+install.packages("devtools")
 devtools::install_github("eschoie26/drinkingage")
 library(drinkingage)
 ```
