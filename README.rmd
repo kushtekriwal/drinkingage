@@ -1,0 +1,21 @@
+# drinkingage
+This package lets you know whether you are 
+legal to drink in different countries around the world. 
+
+The package includes 179 countries. 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Installation 
+You can install drinkingage from github with:
+
+    ```{r install, echo=TRUE}
+# install.packages("devtools")
+devtools::install_github("eschoie26/drinkingage")
+```
+
+## Example 
+
+
