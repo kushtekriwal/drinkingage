@@ -12,3 +12,5 @@ test_that("countries with alcohol laws that vary", c("Cambodia", "Djibouti", "Gu
   "Check variesby function to see the list of countries where legal drinking age varies by religion/jurisdiction/province/beverages")
   expect_equal(variesby(any), View(subset(litdata, litdata$onpremisenum == -1)))
 })
+
+devtools::test()
