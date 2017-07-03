@@ -19,4 +19,15 @@ library(drinkingage)
 
 ## Example 
 
+```{r examples, echo=TRUE}
+##To view the data table 
+library(readr)
+litdata <- read_csv("~/Dropbox/legaldrink/data/sheet1.csv")
+View(litdata)
+
+##To see the list of countries where you are legal to drink 
+country(15)
+##To see the list of countries where legal drinking age varies by religion/jurisdiction/province/beverages
+variesby(any)
+```
 
